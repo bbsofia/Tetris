@@ -1,0 +1,94 @@
+﻿  Scene.cpp
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(44): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(45): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(46): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(68): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(69): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(70): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(93): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(94): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(95): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(116): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(117): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(118): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(140): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(141): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(142): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(164): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(165): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(166): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(188): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(189): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(190): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\scene.cpp(17): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\vip\source\repos\tetris\tetris\scene.cpp(31): warning C4154: удаление массива; выполнено преобразование к указателю
+c:\users\vip\source\repos\tetris\tetris\scene.cpp(32): warning C4154: удаление массива; выполнено преобразование к указателю
+c:\users\vip\source\repos\tetris\tetris\scene.cpp(41): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\vip\source\repos\tetris\tetris\scene.cpp(43): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\vip\source\repos\tetris\tetris\scene.cpp(45): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\vip\source\repos\tetris\tetris\scene.cpp(47): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\vip\source\repos\tetris\tetris\scene.cpp(49): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\vip\source\repos\tetris\tetris\scene.cpp(51): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\vip\source\repos\tetris\tetris\scene.cpp(53): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\vip\source\repos\tetris\tetris\scene.cpp(120): warning C4305: -=: усечение из "double" в "float"
+c:\users\vip\source\repos\tetris\tetris\scene.cpp(135): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\scene.cpp(137): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\scene.cpp(138): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\scene.cpp(210): warning C4244: аргумент: преобразование "float" в "GLsizei", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\scene.cpp(288): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\scene.cpp(291): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\scene.cpp(305): warning C4305: -=: усечение из "double" в "float"
+c:\users\vip\source\repos\tetris\tetris\scene.cpp(312): warning C4305: +=: усечение из "double" в "float"
+c:\users\vip\source\repos\tetris\tetris\scene.cpp(324): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\vip\source\repos\tetris\tetris\scene.cpp(327): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\vip\source\repos\tetris\tetris\scene.cpp(365): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\scene.cpp(367): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\scene.cpp(368): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\scene.cpp(393): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\scene.cpp(397): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Shape.cpp
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(44): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(45): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(46): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(68): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(69): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(70): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(93): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(94): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(95): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(116): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(117): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(118): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(140): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(141): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(142): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(164): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(165): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(166): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(188): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(189): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(190): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  Tetris.cpp
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(44): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(45): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(46): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(68): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(69): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(70): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(93): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(94): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(95): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(116): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(117): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(118): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(140): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(141): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(142): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(164): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(165): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(166): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(188): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(189): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\vip\source\repos\tetris\tetris\tetrominos.h(190): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+  Tetris.vcxproj -> C:\Users\VIP\source\repos\Tetris\Debug\Tetris.exe
